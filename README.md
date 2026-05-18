@@ -1,3 +1,7 @@
+## Link Prototype
+
+https://www.figma.com/proto/5FB8O1eunnElLZfLwCa2Bl/SmartPay-T?node-id=3-1389&t=SybVEZmqWIxNMtPj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1389 
+
 # SmartPay Card Pembayaran Sekolah
 
 SmartPay Card Pembayaran Sekolah adalah prototype sistem pembayaran digital berbasis RFID/NFC yang dirancang untuk mengurangi penggunaan uang tunai di lingkungan sekolah. Sistem ini memungkinkan siswa melakukan transaksi secara cashless untuk kebutuhan seperti kantin, koperasi, dan pembayaran sekolah.
@@ -23,6 +27,3 @@ Aplikasi ini bertujuan untuk meningkatkan efisiensi administrasi keuangan sekola
 
 Sistem ini dirancang agar dikelola oleh penyedia layanan fintech resmi yang bekerja sama dengan sekolah melalui perjanjian resmi. Selain itu, sistem memperhatikan regulasi terkait sistem pembayaran dan perlindungan data pribadi untuk menjaga keamanan informasi siswa dan orang tua.
 
-## Link Prototype
-
-https://www.figma.com/proto/5FB8O1eunnElLZfLwCa2Bl/SmartPay-T?node-id=3-1389&t=SybVEZmqWIxNMtPj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A1389 
